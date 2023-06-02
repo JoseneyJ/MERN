@@ -4,6 +4,10 @@
 # Task 
 A starter code was given with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.
 
+## Deployed URL
+
+https://arcane-hamlet-10067.herokuapp.com/
+
 ## User Story
 
 ```md
@@ -56,10 +60,6 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
 
-## Deployed URL
-
-https://arcane-hamlet-10067.herokuapp.com/
-
 # Snipppets
 
 Homepage:
@@ -70,6 +70,11 @@ Save Book:
 
 See Books if Saved: 
 <img width="1430" alt="Screenshot 2023-06-02 at 1 29 33 AM" src="https://github.com/JoseneyJ/MERN/assets/119374215/016d6fd6-d882-4ef5-9831-8480d707172a">
+
+Saved Book:
+<img width="1430" alt="Screenshot 2023-06-02 at 2 13 10 AM" src="https://github.com/JoseneyJ/MERN/assets/119374215/64b1497e-ed12-45d9-bddd-8a94d21b2a38">
+
+
 
 
 
