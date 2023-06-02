@@ -1,6 +1,9 @@
 # MERN: Book Search Engine
 # BootCamp Challenge 21
 
+# Task 
+A starter code was given with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.
+
 ## User Story
 
 ```md
@@ -66,7 +69,6 @@ Save Book:
 <img width="1430" alt="Screenshot 2023-06-02 at 1 29 52 AM" src="https://github.com/JoseneyJ/MERN/assets/119374215/cfff6625-cdde-45c9-8aa9-39008736306a">
 
 See Books if Saved: 
-
 <img width="1430" alt="Screenshot 2023-06-02 at 1 29 33 AM" src="https://github.com/JoseneyJ/MERN/assets/119374215/016d6fd6-d882-4ef5-9831-8480d707172a">
 
 
